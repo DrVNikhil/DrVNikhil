@@ -37,17 +37,6 @@ When the screen goes dark, you'll find me indulging in my favorite universes and
 *   **Sci-Fi & Fantasy:** Hooked on expansive world-building. Ask me about *Game of Thrones*, *Ready Player One*, *Magnus Chase*, or the *Immortals of Meluha*.
 *   **Cinema & Music:** Big lover of immersive cinematic storytelling, always backed by a constant soundtrack of great music.
 
----
-
-### 📈 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrVNikhil&show_icons=true&theme=nord&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrVNikhil&layout=compact&theme=nord&hide_border=true" height="150" alt="Top Languages" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 Let's build something intelligent or chat about the cosmos!
